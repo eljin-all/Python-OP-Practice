@@ -1,0 +1,66 @@
+[
+    {
+        "name": "gg",
+        "age": 12,
+        "id": 2026,
+        "card": true,
+        "users_deposits": [
+            {
+                "name": "month",
+                "percent": 14.4,
+                "amount": 200000,
+                "term": 22,
+                "calc_meth": "Ежемесячный",
+                "deposit_name": "YOUNG"
+            },
+            {
+                "name": "year",
+                "percent": 15.6,
+                "amount": 700000,
+                "term": 55,
+                "calc_meth": "Ежегодный",
+                "deposit_name": "YOUNG"
+            }
+        ]
+    },
+    {
+        "name": "Gojo",
+        "age": 27,
+        "id": 3966,
+        "card": null,
+        "users_deposits": [
+            {
+                "name": "month",
+                "percent": 12.0,
+                "amount": 250000,
+                "term": 24,
+                "calc_meth": "Ежемесячный",
+                "deposit_name": "SIMPLE"
+            },
+            {
+                "name": "year",
+                "percent": 16.9,
+                "amount": 700000,
+                "term": 33,
+                "calc_meth": "Ежегодный",
+                "deposit_name": "SALARY"
+            }
+        ]
+    },
+    {
+        "name": "hokage",
+        "age": 22,
+        "id": 8292,
+        "card": true,
+        "users_deposits": [
+            {
+                "name": "month",
+                "percent": 14.4,
+                "amount": 200000,
+                "term": 12,
+                "calc_meth": "Ежемесячный",
+                "deposit_name": "YOUNG"
+            }
+        ]
+    }
+]

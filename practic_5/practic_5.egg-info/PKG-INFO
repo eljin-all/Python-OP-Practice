@@ -1,0 +1,12 @@
+Metadata-Version: 2.2
+Name: practic_5
+Version: 1.0.0
+Summary: Это пакет программы, которая создает шифры
+Author: Величайший, или же Папаня
+Author-email: el_jin@mail.ru
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: summary
+
+Это пакет программы, которая создает шифры. Имеются тесты, демо-версия, показывающая действие программы, и пакеты с модулями.
